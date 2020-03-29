@@ -1,0 +1,60 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.4' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1366,         50]
+NotebookOptionsPosition[      1088,         36]
+NotebookOutlinePosition[      1435,         51]
+CellTagsIndexPosition[      1392,         48]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{"(*", 
+  RowBox[{
+   RowBox[{"Elias", " ", "Gutierrez"}], ",", " ", "804678979", ",", " ", 
+   RowBox[{
+    RowBox[{"blackcubes", "@", "ucla"}], ".", "edu"}], ",", " ", 
+   RowBox[{"HW", " ", "4"}]}], "*)"}]], "Input",
+ CellChangeTimes->{{3.6670807990063076`*^9, 3.6670808440534105`*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", 
+   RowBox[{"Question", " ", "1"}], "*)"}], "\[IndentingNewLine]", 
+  "\[IndentingNewLine]"}]], "Input",
+ CellChangeTimes->{{3.6670808496608534`*^9, 3.667080857302312*^9}}]
+},
+WindowSize->{759, 581},
+WindowMargins->{{Automatic, -56}, {41, Automatic}},
+FrontEndVersion->"10.4 for Microsoft Windows (64-bit) (February 25, 2016)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 311, 7, 31, "Input"],
+Cell[872, 29, 212, 5, 72, "Input"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
